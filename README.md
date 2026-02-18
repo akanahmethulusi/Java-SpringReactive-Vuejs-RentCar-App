@@ -1,3 +1,8 @@
+# --- If you are interested in the full version of the application, please contact us via email. ---
+
+
+
+
 # 🛒 E-Commerce Application – Spring Boot & Vue 3
 
 Moderne **E-Commerce Webanwendung** mit **Spring Boot (Java 21, Reactive)** im Backend und **Vue 3 + TypeScript** im Frontend.  
