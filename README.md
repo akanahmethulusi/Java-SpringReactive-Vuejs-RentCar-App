@@ -258,17 +258,6 @@ Moderne Technologien (Reactive, Docker, Vue 3)
 
 Realistische Shop-Funktionalität inkl. Suche & Warenkorb
 
---
-## 🚀 Saubere Architektur-Zusammenfassung
-Service	Aufgabe
-
-ProductService	Search + Orchestrierung
-
-ProductEsService	Elasticsearch Query
-
-ProductPriceService	Detail-Buchungspreis
-
-Perfekte Trennung.
 
 --
 ## 🛠️ Saubere Architektur-Zusammenfassung
