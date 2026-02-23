@@ -270,3 +270,12 @@ ProductPriceService	Detail-Buchungspreis
 
 Perfekte Trennung.
 
+--
+## 🛠️ Saubere Architektur-Zusammenfassung
+
+| Service             | Aufgabe                 |
+| ------------------- | ----------------------- |
+| ProductService      | Search + Orchestrierung |
+| ProductEsService    | Elasticsearch Query     |
+| ProductPriceService | Detail-Buchungspreis    |
+
